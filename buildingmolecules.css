@@ -1,20 +1,24 @@
 .site_heading{
-  background-color: d2d5db;
+  background-color: #dbdbdb;
+  height: 10%;
+  width: 100%;
 }
 .site_name{
   font-size: 40px;
+  text-align: center;
 }
 .Hydrogen1{
-  height: 20px;
-  width: 20px;
+  height: 100px;
+  width: 100px;
   background-color: #ff0004;
 }
-#Hydrogen1.1{
-  
+#Hydrogen1-1{
+  text-align: center;
+  padding-top: 7px;
 }
-#Hydrogen1.01{
-  
+#Hydrogen1-01{
+  text-align: center;
 }
-#Hydrogen1.001{
-  
+#Hydrogen1-001{
+  text-align: center;
 }
